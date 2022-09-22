@@ -1,0 +1,25 @@
+.nav-container {
+    margin: 0 auto;
+    max-width: 1400px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.nav-logo {
+    height: 50px;
+}
+
+.nav-title {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-link {
+    text-decoration: none;
+    margin-right: 10px;
+}

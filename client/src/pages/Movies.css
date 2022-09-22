@@ -1,0 +1,17 @@
+.movies-container {
+    margin: 0 auto;
+    max-width: 1400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.movies-form {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.movies-button {
+    display: flex;
+    justify-content: flex-start;
+}
